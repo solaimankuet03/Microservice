@@ -1,0 +1,16 @@
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\CustomerApi.Service\bin\Debug\netcoreapp3.1\CustomerApi.Service.deps.json
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\CustomerApi.Service\bin\Debug\netcoreapp3.1\CustomerApi.Service.dll
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\CustomerApi.Service\bin\Debug\netcoreapp3.1\CustomerApi.Service.pdb
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\CustomerApi.Service\bin\Debug\netcoreapp3.1\CustomerApi.Domain.dll
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\CustomerApi.Service\bin\Debug\netcoreapp3.1\CustomerApi.Domain.pdb
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\CustomerApi.Service\obj\Debug\netcoreapp3.1\CustomerApi.Service.csprojAssemblyReference.cache
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\CustomerApi.Service\obj\Debug\netcoreapp3.1\CustomerApi.Service.AssemblyInfoInputs.cache
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\CustomerApi.Service\obj\Debug\netcoreapp3.1\CustomerApi.Service.AssemblyInfo.cs
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\CustomerApi.Service\obj\Debug\netcoreapp3.1\CustomerApi.Service.csproj.CoreCompileInputs.cache
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\CustomerApi.Service\obj\Debug\netcoreapp3.1\CustomerApi.Service.csproj.CopyComplete
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\CustomerApi.Service\obj\Debug\netcoreapp3.1\CustomerApi.Service.dll
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\CustomerApi.Service\obj\Debug\netcoreapp3.1\CustomerApi.Service.pdb
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\CustomerApi.Service\bin\Debug\netcoreapp3.1\CustomerApi.Data.dll
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\CustomerApi.Service\bin\Debug\netcoreapp3.1\CustomerApi.Data.pdb
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\CustomerApi.Service\bin\Debug\netcoreapp3.1\CustomerApi.Messaging.Send.dll
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\CustomerApi.Service\bin\Debug\netcoreapp3.1\CustomerApi.Messaging.Send.pdb

@@ -1,0 +1,12 @@
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\CustomerApi.Data\bin\Debug\netcoreapp3.1\CustomerApi.Data.deps.json
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\CustomerApi.Data\bin\Debug\netcoreapp3.1\CustomerApi.Data.dll
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\CustomerApi.Data\bin\Debug\netcoreapp3.1\CustomerApi.Data.pdb
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\CustomerApi.Data\obj\Debug\netcoreapp3.1\CustomerApi.Data.csprojAssemblyReference.cache
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\CustomerApi.Data\obj\Debug\netcoreapp3.1\CustomerApi.Data.AssemblyInfoInputs.cache
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\CustomerApi.Data\obj\Debug\netcoreapp3.1\CustomerApi.Data.AssemblyInfo.cs
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\CustomerApi.Data\obj\Debug\netcoreapp3.1\CustomerApi.Data.csproj.CoreCompileInputs.cache
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\CustomerApi.Data\obj\Debug\netcoreapp3.1\CustomerApi.Data.dll
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\CustomerApi.Data\obj\Debug\netcoreapp3.1\CustomerApi.Data.pdb
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\CustomerApi.Data\bin\Debug\netcoreapp3.1\CustomerApi.Domain.dll
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\CustomerApi.Data\bin\Debug\netcoreapp3.1\CustomerApi.Domain.pdb
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\CustomerApi.Data\obj\Debug\netcoreapp3.1\CustomerApi.Data.csproj.CopyComplete

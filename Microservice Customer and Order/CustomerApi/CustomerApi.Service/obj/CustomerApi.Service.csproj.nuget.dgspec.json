@@ -1,0 +1,292 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Learning\\Git Work\\Microservice Customer and Order\\CustomerApi\\CustomerApi.Service\\CustomerApi.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Learning\\Git Work\\Microservice Customer and Order\\CustomerApi\\CustomerApi.Data\\CustomerApi.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Learning\\Git Work\\Microservice Customer and Order\\CustomerApi\\CustomerApi.Data\\CustomerApi.Data.csproj",
+        "projectName": "CustomerApi.Data",
+        "projectPath": "C:\\Learning\\Git Work\\Microservice Customer and Order\\CustomerApi\\CustomerApi.Data\\CustomerApi.Data.csproj",
+        "packagesPath": "C:\\Users\\solaiman-ali\\.nuget\\packages\\",
+        "outputPath": "C:\\Learning\\Git Work\\Microservice Customer and Order\\CustomerApi\\CustomerApi.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\solaiman-ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Learning\\Git Work\\Microservice Customer and Order\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj": {
+                "projectPath": "C:\\Learning\\Git Work\\Microservice Customer and Order\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Learning\\Git Work\\Microservice Customer and Order\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Learning\\Git Work\\Microservice Customer and Order\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj",
+        "projectName": "CustomerApi.Domain",
+        "projectPath": "C:\\Learning\\Git Work\\Microservice Customer and Order\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj",
+        "packagesPath": "C:\\Users\\solaiman-ali\\.nuget\\packages\\",
+        "outputPath": "C:\\Learning\\Git Work\\Microservice Customer and Order\\CustomerApi\\CustomerApi.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\solaiman-ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Learning\\Git Work\\Microservice Customer and Order\\CustomerApi\\CustomerApi.Messaging.Send\\CustomerApi.Messaging.Send.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Learning\\Git Work\\Microservice Customer and Order\\CustomerApi\\CustomerApi.Messaging.Send\\CustomerApi.Messaging.Send.csproj",
+        "projectName": "CustomerApi.Messaging.Send",
+        "projectPath": "C:\\Learning\\Git Work\\Microservice Customer and Order\\CustomerApi\\CustomerApi.Messaging.Send\\CustomerApi.Messaging.Send.csproj",
+        "packagesPath": "C:\\Users\\solaiman-ali\\.nuget\\packages\\",
+        "outputPath": "C:\\Learning\\Git Work\\Microservice Customer and Order\\CustomerApi\\CustomerApi.Messaging.Send\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\solaiman-ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Learning\\Git Work\\Microservice Customer and Order\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj": {
+                "projectPath": "C:\\Learning\\Git Work\\Microservice Customer and Order\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Learning\\Git Work\\Microservice Customer and Order\\CustomerApi\\CustomerApi.Service\\CustomerApi.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Learning\\Git Work\\Microservice Customer and Order\\CustomerApi\\CustomerApi.Service\\CustomerApi.Service.csproj",
+        "projectName": "CustomerApi.Service",
+        "projectPath": "C:\\Learning\\Git Work\\Microservice Customer and Order\\CustomerApi\\CustomerApi.Service\\CustomerApi.Service.csproj",
+        "packagesPath": "C:\\Users\\solaiman-ali\\.nuget\\packages\\",
+        "outputPath": "C:\\Learning\\Git Work\\Microservice Customer and Order\\CustomerApi\\CustomerApi.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\solaiman-ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Learning\\Git Work\\Microservice Customer and Order\\CustomerApi\\CustomerApi.Data\\CustomerApi.Data.csproj": {
+                "projectPath": "C:\\Learning\\Git Work\\Microservice Customer and Order\\CustomerApi\\CustomerApi.Data\\CustomerApi.Data.csproj"
+              },
+              "C:\\Learning\\Git Work\\Microservice Customer and Order\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj": {
+                "projectPath": "C:\\Learning\\Git Work\\Microservice Customer and Order\\CustomerApi\\CustomerApi.Domain\\CustomerApi.Domain.csproj"
+              },
+              "C:\\Learning\\Git Work\\Microservice Customer and Order\\CustomerApi\\CustomerApi.Messaging.Send\\CustomerApi.Messaging.Send.csproj": {
+                "projectPath": "C:\\Learning\\Git Work\\Microservice Customer and Order\\CustomerApi\\CustomerApi.Messaging.Send\\CustomerApi.Messaging.Send.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
