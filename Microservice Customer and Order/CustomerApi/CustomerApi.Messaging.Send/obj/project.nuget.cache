@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "kuG32C7ETC8CwTwNIRfIeKBhGHVoXPKcCEwroBtl71EszSqa9BkUotpneTSuHpMmlPZClmTXkBM019EopQNIMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Learning\\Git Work\\Microservice Customer and Order\\CustomerApi\\CustomerApi.Messaging.Send\\CustomerApi.Messaging.Send.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\solaiman-ali\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\solaiman-ali\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\solaiman-ali\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\solaiman-ali\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\solaiman-ali\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\solaiman-ali\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\solaiman-ali\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

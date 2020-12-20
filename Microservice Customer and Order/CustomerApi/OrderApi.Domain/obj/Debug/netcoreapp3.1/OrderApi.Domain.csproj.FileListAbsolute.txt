@@ -1,0 +1,9 @@
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\OrderApi.Domain\bin\Debug\netcoreapp3.1\OrderApi.Domain.deps.json
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\OrderApi.Domain\bin\Debug\netcoreapp3.1\OrderApi.Domain.dll
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\OrderApi.Domain\bin\Debug\netcoreapp3.1\OrderApi.Domain.pdb
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\OrderApi.Domain\obj\Debug\netcoreapp3.1\OrderApi.Domain.csprojAssemblyReference.cache
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\OrderApi.Domain\obj\Debug\netcoreapp3.1\OrderApi.Domain.AssemblyInfoInputs.cache
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\OrderApi.Domain\obj\Debug\netcoreapp3.1\OrderApi.Domain.AssemblyInfo.cs
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\OrderApi.Domain\obj\Debug\netcoreapp3.1\OrderApi.Domain.csproj.CoreCompileInputs.cache
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\OrderApi.Domain\obj\Debug\netcoreapp3.1\OrderApi.Domain.dll
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\OrderApi.Domain\obj\Debug\netcoreapp3.1\OrderApi.Domain.pdb

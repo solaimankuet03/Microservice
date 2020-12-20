@@ -1,0 +1,16 @@
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\OrderApi.Messaging.Receive\bin\Debug\netcoreapp3.1\OrderApi.Messaging.Receive.deps.json
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\OrderApi.Messaging.Receive\bin\Debug\netcoreapp3.1\OrderApi.Messaging.Receive.dll
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\OrderApi.Messaging.Receive\bin\Debug\netcoreapp3.1\OrderApi.Messaging.Receive.pdb
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\OrderApi.Messaging.Receive\obj\Debug\netcoreapp3.1\OrderApi.Messaging.Receive.AssemblyInfoInputs.cache
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\OrderApi.Messaging.Receive\obj\Debug\netcoreapp3.1\OrderApi.Messaging.Receive.AssemblyInfo.cs
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\OrderApi.Messaging.Receive\obj\Debug\netcoreapp3.1\OrderApi.Messaging.Receive.csproj.CoreCompileInputs.cache
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\OrderApi.Messaging.Receive\obj\Debug\netcoreapp3.1\OrderApi.Messaging.Receive.dll
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\OrderApi.Messaging.Receive\obj\Debug\netcoreapp3.1\OrderApi.Messaging.Receive.pdb
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\OrderApi.Messaging.Receive\obj\Debug\netcoreapp3.1\OrderApi.Messaging.Receive.csprojAssemblyReference.cache
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\OrderApi.Messaging.Receive\bin\Debug\netcoreapp3.1\OrderApi.Data.dll
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\OrderApi.Messaging.Receive\bin\Debug\netcoreapp3.1\OrderApi.Domain.dll
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\OrderApi.Messaging.Receive\bin\Debug\netcoreapp3.1\OrderApi.Service.dll
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\OrderApi.Messaging.Receive\bin\Debug\netcoreapp3.1\OrderApi.Service.pdb
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\OrderApi.Messaging.Receive\bin\Debug\netcoreapp3.1\OrderApi.Data.pdb
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\OrderApi.Messaging.Receive\bin\Debug\netcoreapp3.1\OrderApi.Domain.pdb
+C:\Learning\Git Work\Microservice Customer and Order\CustomerApi\OrderApi.Messaging.Receive\obj\Debug\netcoreapp3.1\OrderApi.Messaging.Receive.csproj.CopyComplete
